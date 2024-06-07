@@ -1,2 +1,2 @@
-# modal_test
-Testing modal.com.
+# Notebooks for AI/ML exercises
+
